@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor2","traits":[{"code":21,"dataId":0,"value":1},{"code":21,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":10,"name":"W神","nickname":"大老板","note":"","profile":"有时候很不正经"},
+{"id":2,"battlerName":"Actor2_4","characterIndex":7,"characterName":"People2","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People2","traits":[{"code":21,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":10,"name":"灰灰","nickname":"厂花","note":"","profile":"人见人爱的兔女郎"},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":2,"equips":[6,1,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[{"code":21,"dataId":2,"value":1}],"initialLevel":10,"maxLevel":10,"name":"阿珍","nickname":"小珍珍","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
