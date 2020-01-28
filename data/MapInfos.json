@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"W的洋房","order":2,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"地下室","order":3,"parentId":1,"scrollX":459,"scrollY":312.5},
+{"id":3,"expanded":true,"name":"村庄","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":4,"expanded":false,"name":"哥布林森林","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"火神山","order":4,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":6,"expanded":false,"name":"海岛","order":5,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":7,"expanded":false,"name":"地牢","order":7,"parentId":0,"scrollX":459,"scrollY":312.5}
+]
